@@ -32,6 +32,7 @@ If you now have a small change, like a typo or updating description you do a fas
   - Add a hint on when the TRG becomes mandatory
   - Address all issues in the PR and merge
   - Announce the new TRG on the developer mailinglist
+  - Announce the new TRG on the devsecops hours session
   - When the TRG mandatory date is due, remove the hint and move it from PRERELEASE to normal (as all other TRGs)
 
 ### Update existing TRG
